@@ -26,7 +26,7 @@ Welcome to the DevOps Learning Resources repository. This repository is a curate
 |  19    |  Python For DevOps       |    [Link](https://www.trainwithshubham.com/courses/Free-Python-For-DevOps-Masterclass-6406cc4ce4b0d1aea04b434a)   |
 |   20     | Register Free CKAD Series course | [Link](https://getfitwithsagar.graphy.com/courses/Free-CKAD-Series-64803ac6e4b00d372ab6a817)      |
 |   21   |   Cloud Exam Notes      |  [Link](https://rishabkumar.com/notes/)     |
-|      |         |       |
+|   22   |   Devops Notes and Interview Questions      |  [Link](https://drive.google.com/drive/folders/1EEl6he-IOba5AerYrKjTZkHnEPrb7mTA)     |
 |      |         |       |
 |      |         |       |
 |      |         |       |
